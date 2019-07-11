@@ -24,7 +24,7 @@ $l['mint_shop_item_purchase_error'] = 'Could not execute the purchase.';
 // ACP
 // Mint: Shop Items
 $l['mint_admin_shop_items'] = 'Shop Items';
-$l['mint_admin_shop_items_description'] = 'Here you can manage shop items.';
+$l['mint_admin_shop_items_page_description'] = 'Here you can manage shop items.';
 $l['mint_admin_shop_items_list'] = 'Shop Items ({1})';
 $l['mint_admin_shop_items_empty'] = 'No shop items added.';
 
